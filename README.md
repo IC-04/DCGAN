@@ -104,10 +104,9 @@ Installation can be performed using pip:
 pip install tensorflow tensorflow-datasets tqdm numpy matplotlib
 
 ```
-##Execution Guidelines
+### Execution Guidelines
 
 To commence training and observe the generative performance:
-
 Clone the repository:
 ```bash
 git clone https://github.com/your_username/dcgan-celeba.git
@@ -117,4 +116,5 @@ Execute the training module:
 ```bash
 python train.py
 ```
+---
 The training script orchestrates the data flow, model updates, and periodically outputs synthetic images to the generated_images/ folder.
