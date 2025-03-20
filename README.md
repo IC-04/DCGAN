@@ -104,6 +104,7 @@ Installation can be performed using pip:
 pip install tensorflow tensorflow-datasets tqdm numpy matplotlib
 
 ```
+---
 ### Execution Guidelines
 
 To commence training and observe the generative performance:
